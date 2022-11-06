@@ -171,13 +171,13 @@ h3 {
 }
 .rout-ul li {
     text-align: justify;
-    margin: 12px 10px 16px 20px;
+    margin: 12px 10px 14px 17px;
     width: 38vw;
     height: auto;
     list-style-type: none;
     font-size: 1.4rem;
-    border: solid 3px rgb(255, 166, 0);
-    padding: 3px 5px;
+    border: solid 3px rgb(199, 129, 0);
+    padding: 4px 8px;
 }
 h4 {
     margin: 14px auto 0px;
