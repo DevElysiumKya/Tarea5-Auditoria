@@ -156,12 +156,12 @@ h3 {
 .rout-ul {
     background: #222;
     margin: 16px 10px;
-    width: 94%;
-    height: 86%;
+    width: 96%;
+    height: 90%;
     border-radius: 10%;
     color: var(--color1);
     text-align: left;
-    cursor: crosshair;
+    cursor: default;
     padding: 20px 10px;
     transition: all 1s;
     display: flex;    
@@ -171,14 +171,13 @@ h3 {
 }
 .rout-ul li {
     text-align: justify;
-    margin: 12px 10px 16px 24px;
+    margin: 12px 10px 16px 20px;
     width: 38vw;
     height: auto;
     list-style-type: none;
     font-size: 1.4rem;
-    border-left: solid 4px #6cf;
-    border-bottom: solid 2px #6cf;
-    padding-left: 6px;
+    border: solid 3px rgb(255, 166, 0);
+    padding: 3px 5px;
 }
 h4 {
     margin: 14px auto 0px;
